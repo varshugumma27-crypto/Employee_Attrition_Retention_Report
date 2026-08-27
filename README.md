@@ -8,7 +8,7 @@ The analysis focuses on variables such as **age, department and region, employee
 
 ---
 
-![Employee Attrition and Retention Report](visualization/Employee%20Attrition%20%26%20Retention%20Report.png)
+![alt text](visualization/Employee_Attrition_&_Retention_Report.png)
 
 ## 🚀 Core Features
 
